@@ -46,5 +46,12 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "a new portfolio using React",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpris10/portfolio-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edpris10/portfolio-2/issues"
+  }
 }
