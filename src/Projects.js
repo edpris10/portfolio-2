@@ -22,6 +22,10 @@ function AboutMe() {
                 <a href="https://github.com/CrisGraciano/calorie-tracker" target="blank">
                 <img src="./assets/images/calorieTracker.jpg" alt="" /> <br /> 
                 </a>
+                <h3>Leather Store</h3>
+                <a href="https://github.com/CrisGraciano/leather-app.git" target="blank">
+                <img src="./assets/images/Leather.png" alt="" /> <br /> 
+                </a>
             </div>    
   );
 }
